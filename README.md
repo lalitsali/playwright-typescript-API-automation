@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Playwright TypeScript Automation Framework
 
@@ -190,3 +191,6 @@ Generate test report
 =======
 Generate test reports
 >>>>>>> cd1d79a (Implement reusable authentication and update test cases)
+=======
+# playwright-typescript-API-automation
+>>>>>>> ca27be9a92134dd411b77731d2760c7dfeb0c1a2
